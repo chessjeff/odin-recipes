@@ -1,0 +1,34 @@
+body {
+    font-family: "Ariel", "Helvetica", sans-serif;
+    background-color: bisque;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+h1 {
+    font-weight: 400;
+    text-align: center;
+}
+
+.home {
+    list-style: inside;
+}
+
+ul {
+    background-color:antiquewhite;
+    line-height: 32px;
+    width: 350px;
+}
+
+ol {
+    background-color: antiquewhite;
+    line-height: 32px;
+    width: 400px;
+}
+
+ul.main {
+    width: 275px;
+}
