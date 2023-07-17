@@ -1,34 +1,22 @@
 body {
-    font-family: "Ariel", "Helvetica", sans-serif;
-    background-color: bisque;
+    background-color: rgb(105, 105, 152);
+    margin: 25px;
 }
 
-img {
-    width: 350px;
-    height: auto;
-}
-
-h1 {
-    font-weight: 400;
+.title {
     text-align: center;
+    font-weight: 500;
+    font-family: "Helvetica", sans-serif;
+    background-color: rgb(195, 188, 188);
+    padding: 16px 20px;
+    margin: auto 340px;
 }
 
-.home {
-    list-style: inside;
-}
-
-ul {
-    background-color:antiquewhite;
-    line-height: 32px;
-    width: 350px;
-}
-
-ol {
-    background-color: antiquewhite;
-    line-height: 32px;
-    width: 400px;
-}
-
-ul.main {
-    width: 275px;
+.recipe {
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(195, 188, 188);
+    margin: 12px 340px;
+    padding: 16px;
+    border: 2px;
 }
